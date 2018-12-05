@@ -1,0 +1,12 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://www.hdwallpaper.nu/wp-content/uploads/2017/03/breaking_bad-3.jpg');
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
